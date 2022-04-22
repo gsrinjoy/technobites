@@ -1,5 +1,14 @@
 <template>
     <div class="popup-mobile-menu popup-mobile-visiable" id="offcanvas-menu">
+        <!-- Global site tag (gtag.js) - Google Analytics linked with makemeglobal account-->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-LW0E86JXEK"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-LW0E86JXEK');
+        </script>
         <div class="mobile-menu-overlay" @click="mobiletoggleClass('removeClass', 'show-mobile-menu')"></div>
         <div class="bg-white w-300 h-full left-0 top-0 absolute text-left transition-all py-8 px-5 overflow-y-scroll">
             <div class="flex justify-between pb-8">
