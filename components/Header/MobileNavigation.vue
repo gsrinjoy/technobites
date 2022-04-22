@@ -6,7 +6,7 @@
                     <n-link class="text-base font-semibold capitalize block pb-4 pt-4 pt- border-b-1 border-gray-200 transition-all hover:text-primary text-black text-dark" to="/">Home</n-link>
                 </li>
 
-                <li class="menu-item-has-children relative block">
+                <!-- <li class="menu-item-has-children relative block">
                     <n-link class="text-base font-semibold capitalize block pb-4 pt-4  border-b-1 border-gray-200 transition-all hover:text-primary text-black" to="/">Match</n-link>
                     <ul class="sub-menu ml-5">
                         <li>
@@ -16,9 +16,9 @@
                             <n-link class="text-sm font-semibold capitalize block pb-4 pt-4 border-b-1 border-gray-200 transition-all hover:text-primary text-black" to="/match/1">Match Details</n-link>
                         </li>
                     </ul>
-                </li>
+                </li> -->
 
-                <li class="menu-item-has-children relative block">
+                <!-- <li class="menu-item-has-children relative block">
                     <n-link class="text-base font-semibold capitalize block pb-4 pt-4  border-b-1 border-gray-200 transition-all hover:text-primary text-black" to="/">Pages</n-link>
                     <ul class="sub-menu ml-5">
                         <li>
@@ -46,11 +46,11 @@
                             <n-link class="text-sm font-semibold capitalize block pb-4 pt-4 border-b-1 border-gray-200 transition-all hover:text-primary text-black" to="/">Team Login</n-link>
                         </li>
                     </ul>
-                </li>
+                </li> -->
 
                 <li class="menu-item-has-children relative block">
-                    <n-link class="text-base font-semibold capitalize block pb-4 pt-4 border-b-1 border-gray-200 transition-all hover:text-primary text-black" to="/blog">Blog</n-link>
-                    <ul class="sub-menu ml-5">
+                    <n-link class="text-base font-semibold capitalize block pb-4 pt-4 border-b-1 border-gray-200 transition-all hover:text-primary text-black" to="/blogPage">Blog</n-link>
+                    <!-- <ul class="sub-menu ml-5">
                         <li>
                             <n-link class="text-sm font-semibold capitalize block pb-4 pt-4 border-b-1 border-gray-200 transition-all hover:text-primary text-black" to="/blogPage">BLOG Page</n-link>
                         </li>
@@ -72,7 +72,7 @@
                         <li>
                             <n-link class="text-sm font-semibold capitalize block pb-4 pt-4 border-b-1 border-gray-200 transition-all hover:text-primary text-black" to="/blog/1">Blog Details</n-link>
                         </li>
-                    </ul>
+                    </ul> -->
                 </li>
 
                 <li>
