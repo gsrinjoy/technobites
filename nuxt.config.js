@@ -1,6 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
+    // ALL RIGHT RESERVED BY MAKEMEGLOBAL - YUVRAJ JWALA
     title: 'Technobites | Technobites 2k22 by Makemeglobal',
     htmlAttrs: {
       lang: 'en'
