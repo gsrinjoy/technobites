@@ -32,7 +32,7 @@
                         imgSrc: "/images/others/gaming-world1.webp",
                         name: "Service Image",
                         live: "Technob!Tes",
-                        text: "When unknown printer took type and scrambled it to make type specimen book centuries,",
+                        text: "You know , You Grow !We welcome you to a brainstorming session !Let the minds clash with speed . Showcase your all-rounder knowledge and be the smarty-pants",
                         videoBannerBg: "/images/others/gaming-world-bg1.webp"
                     },
                     {
@@ -46,7 +46,7 @@
                         imgSrc: "/images/others/gaming-world3.webp",
                         name: "Service Image",
                         live: "Newly Minted",
-                        text: "When unknown printer took type and scrambled it to make type specimen book centuries,",
+                        text: "Obsessed with Shark Tank India? Start up dreams begin here . Ideas, pitching , marketing, product launching . Gear up your tools to prove your ultimate dream of entrepreneurship .",
                         videoBannerBg: "/images/others/gaming-world-bg3.webp"
                     },
                      {
