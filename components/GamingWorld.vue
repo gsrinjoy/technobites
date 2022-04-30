@@ -66,7 +66,7 @@
                     {
                         imgSrc: "/images/others/gaming-world3.webp",
                         name: "Service Image",
-                        live: "Blinkz",
+                        live: "Masquerade",
                         text: "Here we are to rescue your quirky outfits from the shackles of your closet. Gather up your aesthetic sense, creativity, and enthusiasm and instil a euphonious vogue.",
                         videoBannerBg: "/images/others/gaming-world-bg3.webp"
                     },
