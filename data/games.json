@@ -1,42 +1,42 @@
 [
     {
         "gameImage": "/images/others/popular-game-thumb11.png",
-        "btnName": "Event Details",
+        "btnName": "Stay tuned",
         "title": "Rules and events - Technobites",
         "slug": "1",
         "category": "1"
     },
     {
         "gameImage": "/images/others/popular-game-thumb2.png",
-        "btnName": "Event Details",
-        "title": "All Event Details - Technobites",
+        "btnName": "Stay tuned",
+        "title": "All Stay tuned - Technobites",
         "slug": "2",
         "category": "2"
     },
     {
         "gameImage": "/images/others/popular-game-thumb3.png",
-        "btnName": "Event Details",
+        "btnName": "Stay tuned",
         "title": "Space Adventure - SNIPER SHOOTER",
         "slug": "3",
         "category": "3"
     },
     {
         "gameImage": "/images/others/popular-game-thumb4.png",
-        "btnName": "Event Details",
+        "btnName": "Stay tuned",
         "title": "Space Exploration Game",
         "slug": "4",
         "category": "4"
     },
     {
         "gameImage": "/images/others/popular-game-thumb5.png",
-        "btnName": "Event Details",
+        "btnName": "Stay tuned",
         "title": "Alien Space Seven Star",
         "slug": "5",
         "category": "5"
     },
     {
         "gameImage": "/images/others/popular-game-thumb6.png",
-        "btnName": "Event Details",
+        "btnName": "Stay tuned",
         "title": "Alien Space SNIPER SHOOTER",
         "slug": "6",
         "category": "1"
