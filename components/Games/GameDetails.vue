@@ -1,7 +1,7 @@
 <template>
     <div class="container relative">
         
-        <h2 class="date text-primary font-bold mb-2">Venue: Blob Studio (Blob Turf), Yamuna Tower 8th Floor, Near Sreebhumi, Kolkata - 48</h2>
+        <!-- <h2 class="date text-primary font-bold mb-2">Venue: Blob Studio (Blob Turf), Yamuna Tower 8th Floor, Near Sreebhumi, Kolkata - 48</h2> -->
         <h2 class="text-white font-bold uppercase xl:text-title lg:text-5xl md:text-4xl sm:text-3xl text-2xl xl:leading-70 lg:leading-12 leading-10">{{games.title}}</h2>
                     <div class="gameslide my-15">
 
