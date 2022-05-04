@@ -47,7 +47,7 @@
         "stream": "Twitch Stream",
         "playBtn": "/images/others/play-btn2.webp",
         "playAlt": "Gaming BG",
-        "src": "https://youtu.be/yQe95Tmp4v0",
+        "src": "https://youtu.be/yQe95Tmp4v0",  
         "autoplay": true,
         "slug": "3",
         "videoShapeBg": "/images/others/text-mini-shape.webp",

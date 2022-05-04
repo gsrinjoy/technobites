@@ -15,7 +15,7 @@
     export default {
         components:{
             FooterWidgetTitle: () => import('@/components/Footer/FooterWidgetTitle'),
-        },
+        }, 
         data() {
             return {
                 title: "quick links",
