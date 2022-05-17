@@ -25,7 +25,7 @@
                 counter: [
                     {
                         startVal: 0,
-                        endVal: 2136,
+                        endVal: 5126,
                         className: "text-yellow",
                         text: "Registrations"
                     },
@@ -33,7 +33,7 @@
                         startVal: 0,
                         endVal: 118,
                         className: "text-bright",
-                        text: "campus ambassador"
+                        text: "campus ambassadors"
                     },
                     {
                         startVal: 0,
