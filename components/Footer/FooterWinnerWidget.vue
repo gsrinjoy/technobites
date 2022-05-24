@@ -20,28 +20,31 @@ export default {
             matches: [
                 {
                     gamingBg: "/images/others/makemeglobal.png",
+                    gamingAlt: "Mintella"
+                },
+                {
+                   gamingBg: "/images/others/kol_cap.png",
+                    gamingAlt: "Kolkata cabs"
+                },
+                {
+                   gamingBg: "/images/others/Mintella.png",
                     gamingAlt: "Makemeglobal"
                 },
-                // {
-                //    gamingBg: "/images/others/makemeglobal-logo.png",
-                //     gamingAlt: "Makemeglobal"
-                // },
-                // {
-                //    gamingBg: "/images/others/makemeglobal-logo.png",
-                //     gamingAlt: "Makemeglobal"
-                // },
-                // {
-                //    gamingBg: "/images/others/makemeglobal-logo.png",
-                //     gamingAlt: "Makemeglobal"
-                // },
-                // {
-                //     gamingBg: "/images/others/makemeglobal-logo.png",
-                //     gamingAlt: "Makemeglobal"
-                // },
-                // {
-                //     gamingBg: "/images/others/makemeglobal-logo.png",
-                //     gamingAlt: "Makemeglobal"
-                // }
+                {
+                   gamingBg: "/images/others/dky.jpeg",
+                    gamingAlt: "Makemeglobal"
+                },
+                {
+                    gamingBg: "/images/others/royal.jpg",
+                    gamingAlt: "Makemeglobal"
+                },
+                {
+                    gamingBg: "/images/others/suf.png",
+                    gamingAlt: "Makemeglobal"
+                },{
+                    gamingBg: "/images/others/ok.png",
+                    gamingAlt: "Makemeglobal"
+                }
             ]
         }
     },
